@@ -2,4 +2,4 @@
 
 Web scraper and analytics for https://www.growandbehold.com/
 
-Currently hosted on AWS at http://52.37.69.138/meats.php
+Currently hosted on AWS at http://52.37.69.138/meats.php and http://52.37.69.138/priceDump.php
